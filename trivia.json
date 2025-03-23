@@ -1,0 +1,838 @@
+{
+    "general": {
+        "category": "All Knowing",
+        "questions": [
+            {
+                "answer": "World Wide Web",
+                "options": [
+                    "In a website browser address bar, what does 'www' stand for?",
+                    "What does 'http' stand for?",
+                    "What is the main programming language of the web?",
+                    "Who invented the internet?"
+                ],
+                "correctIndex": 0,
+                "hint": "It consists of three letters: W-W-W."
+            },
+            {
+                "answer": "An aglet",
+                "options": [
+                    "What is the tiny piece at the end of a shoelace called?",
+                    "What is the name of the metal tip of a pencil?",
+                    "What do you call the plastic covering of a wire?",
+                    "What is the small loop on the back of a shoe called?"
+                ],
+                "correctIndex": 0,
+                "hint": "It keeps your shoelace from fraying."
+            },
+            {
+                "answer": "Leonardo da Vinci",
+                "options": [
+                    "Who painted the Mona Lisa?",
+                    "Who sculpted the Statue of Liberty?",
+                    "Which artist is known for 'The Starry Night'?",
+                    "Who was a famous Spanish painter?"
+                ],
+                "correctIndex": 0,
+                "hint": "A Renaissance genius."
+            },
+            {
+                "answer": "Blue Whale",
+                "options": [
+                    "What is the largest mammal in the world?",
+                    "What is the fastest land animal?",
+                    "Which marine animal has the longest lifespan?",
+                    "What is the largest fish in the ocean?"
+                ],
+                "correctIndex": 0,
+                "hint": "It's the largest animal on Earth."
+            },
+            {
+                "answer": "Zeus",
+                "options": [
+                    "Who is the king of the gods in Greek mythology?",
+                    "Who is the god of war in Greek mythology?",
+                    "Who is the ruler of the underworld?",
+                    "Who is the Greek god of the sea?"
+                ],
+                "correctIndex": 0,
+                "hint": "Ruler of Mount Olympus."
+            },{
+                "answer": "Nectar",
+                "options": [
+                  "What do bees collect to make honey?",
+                  "What do bees use to build their hives?",
+                  "What do bees produce to make royal jelly?",
+                  "What do bees collect to produce bee pollen?"
+                ],
+                "correctIndex": 0,
+                "hint": "It's the sweet liquid from flowers."
+              },
+              {
+                "answer": "Milky Way",
+                "options": [
+                  "In what galaxy is our solar system located?",
+                  "What is the name of the spiral galaxy full of stars?",
+                  "Which galaxy is known for its central black hole?",
+                  "What galaxy contains the majority of the universe’s stars?"
+                ],
+                "correctIndex": 0,
+                "hint": "It's our home galaxy."
+              },
+              {
+                "answer": "Femur",
+                "options": [
+                  "What is the largest bone in the human body?",
+                  "Which bone is found in the upper arm?",
+                  "What bone is in the forearm?",
+                  "Which bone connects the skull to the spine?"
+                ],
+                "correctIndex": 0,
+                "hint": "It's the thigh bone."
+              },
+              {
+                "answer": "HyperText Transfer Protocol",
+                "options": [
+                  "What does “HTTP” stand for?",
+                  "What does “HTTPS” stand for?",
+                  "What is the protocol used for web browsing?",
+                  "Which protocol is used for transferring emails?"
+                ],
+                "correctIndex": 0,
+                "hint": "It's the language of the web."
+              },
+              {
+                "answer": "Paella",
+                "options": [
+                  "What is the national dish of Spain?",
+                  "What is a famous Italian pasta dish?",
+                  "Which dish is traditionally served in Japan?",
+                  "What is a popular French pastry?"
+                ],
+                "correctIndex": 0,
+                "hint": "It's a rice dish from Spain."
+              },{
+                "answer": "Burj Khalifa",
+                "options": [
+                    "What is the tallest building in the world?",
+                    "Which skyscraper is located in New York City?",
+                    "What building is known for its distinctive sail-like design?",
+                    "Which building holds the record for most floors?"
+                ],
+                "correctIndex": 0,
+                "hint": "Located in Dubai."
+              },
+              {
+                "answer": "Slogan: 'Think different'",
+                "options": [
+                    "What is the slogan of Apple Inc.?",
+                    "What is the motto of Nike?",
+                    "What is the tagline for Coca-Cola?",
+                    "What is Microsoft's slogan?"
+                ],
+                "correctIndex": 0,
+                "hint": "It encourages creativity."
+              },
+              {
+                "answer": "The Great Dane",
+                "options": [
+                    "What is the tallest breed of dog in the world?",
+                    "Which dog breed is known for its small size?",
+                    "Which breed of dog is famous for its herding skills?",
+                    "What is the most common family pet?"
+                ],
+                "correctIndex": 0,
+                "hint": "Known for its impressive height."
+              },
+              {
+                "answer": "A diamond",
+                "options": [
+                    "What is the hardest natural substance on Earth?",
+                    "What is the most expensive gemstone?",
+                    "Which mineral is formed from coal under pressure?",
+                    "What is the softest rock known to man?"
+                ],
+                "correctIndex": 0,
+                "hint": "It's often used in jewelry."
+              },
+              {
+                "answer": "Vatican City",
+                "options": [
+                    "What is the smallest country in the world?",
+                    "Which country has the largest population density?",
+                    "What is the largest city-state in the world?",
+                    "Which nation is known for its vast land area?"
+                ],
+                "correctIndex": 0,
+                "hint": "It is an independent city-state within Rome."
+              },
+              {
+                "answer": "Pacific Ocean",
+                "options": [
+                    "What is the largest ocean in the world?",
+                    "Which ocean is the smallest by area?",
+                    "Which ocean borders Antarctica?",
+                    "What is the most saline ocean?"
+                ],
+                "correctIndex": 0,
+                "hint": "It covers more than 30% of the Earth's surface."
+              },
+              {
+                "answer": "Mercury",
+                "options": [
+                    "What is the smallest planet in our solar system?",
+                    "Which planet is known as the Red Planet?",
+                    "Which planet is the largest in our solar system?",
+                    "Which planet has a prominent ring system?"
+                ],
+                "correctIndex": 0,
+                "hint": "It is also the closest planet to the Sun."
+              },
+              {
+                "answer": "Canada and the U.S. broder",
+                "options": [
+                    "Which two countries have the longest shared international border?",
+                    "Which two countries have the longest coastline?",
+                    "Which two countries share the largest land border in Europe?",
+                    "Which two countries have a maritime boundary in the Atlantic?"
+                ],
+                "correctIndex": 0,
+                "hint": "It is between North America's largest nations."
+              },
+              {
+                "answer": "Three yard",
+                "options": [
+                    "How many feet are in a yard?",
+                    "How many inches are in a yard?",
+                    "How many yards are in a mile?",
+                    "How many meters are in a yard?"
+                ],
+                "correctIndex": 0,
+                "hint": "A yard is equal to 3 feet."
+              },{
+                "answer": "March sisters: Meg, Jo, Beth and Amy",
+                "options": [
+                  "What are the names of the four March sisters in Little Women?",
+                  "Which sisters appear in Little Women?",
+                  "Who are the protagonists in Little Women?",
+                  "Name the siblings in Little Women?"
+                ],
+                "correctIndex": 0,
+                "hint": "They are the main characters in Little Women."
+              },
+              {
+                "answer": "Cassius Clay",
+                "options": [
+                  "What was the birth name of boxing legend Muhammad Ali?",
+                  "Who is known as Cassius Clay?",
+                  "Which boxing champion was once called Cassius Clay?",
+                  "Which fighter changed his name from Cassius Clay?"
+                ],
+                "correctIndex": 0,
+                "hint": "This was Muhammad Ali's original name."
+              },
+              {
+                "answer": "Ctrl+V",
+                "options": [
+                  "What’s the shortcut for the paste function on most computers?",
+                  "Which key combination pastes text?",
+                  "What does Ctrl+V do?",
+                  "Which shortcut is used to paste?"
+                ],
+                "correctIndex": 0,
+                "hint": "It's used to insert copied content."
+              },
+              {
+                "answer": "AB negative",
+                "options": [
+                  "What is the rarest blood type?",
+                  "Which blood type is considered rare?",
+                  "What blood group is in short supply?",
+                  "Which blood type is uncommon?"
+                ],
+                "correctIndex": 0,
+                "hint": "It's known as the rarest blood type."
+              },
+              {
+                "answer": "In-N-Out Burger",
+                "options": [
+                  "What U.S. fast food chain is credited with introducing the first drive-through window?",
+                  "Which burger chain pioneered the drive-through service?",
+                  "Which fast food restaurant started the drive-through trend?",
+                  "Which chain is famous for its secret menu and drive-through?"
+                ],
+                "correctIndex": 0,
+                "hint": "A popular West Coast burger chain."
+              },
+              {
+                "answer": "212 degrees Fahrenheit or 100 degrees Celsius",
+                "options": [
+                  "What temperature does water boil at?",
+                  "At what temperature does water turn to vapor?",
+                  "What is the boiling point of water?",
+                  "At what temperature do liquids boil?"
+                ],
+                "correctIndex": 0,
+                "hint": "This is the boiling point of water at standard pressure."
+              },
+              {
+                "answer": "Mitochondria",
+                "options": [
+                  "What is the powerhouse of the cell?",
+                  "Which organelle produces energy in a cell?",
+                  "What is known as the cell's powerhouse?",
+                  "Which structure generates ATP in cells?"
+                ],
+                "correctIndex": 0,
+                "hint": "A common biology phrase."
+              },
+              {
+                "answer": "George Washington",
+                "options": [
+                  "Who was the first President of the United States?",
+                  "Which founding father became the first president?",
+                  "Who led the Continental Army and then became president?",
+                  "Who is known as the father of his country?"
+                ],
+                "correctIndex": 0,
+                "hint": "He was the first U.S. president."
+              },
+              {
+                "answer": "Michael Jackson",
+                "options": [
+                  "Who is known as the 'King of Pop'?",
+                  "Which pop icon was called the King of Pop?",
+                  "Who revolutionized pop music in the 1980s?",
+                  "Which artist released the album 'Thriller'?"
+                ],
+                "correctIndex": 0,
+                "hint": "A legendary pop singer."
+              },
+              {
+                "answer": "Super Mario Bros.",
+                "options": [
+                  "What video game features a plumber named Mario?",
+                  "Which iconic game series stars a plumber?",
+                  "Which game features a red-capped hero named Mario?",
+                  "What is the classic game that started with Mario?"
+                ],
+                "correctIndex": 0,
+                "hint": "A classic platformer game."
+              },
+              {
+                "answer": "Minecraft",
+                "options": [
+                  "What is the best-selling video game of all time?",
+                  "Which game is known for its blocky graphics?",
+                  "Which sandbox game has a survival mode?",
+                  "What game allows you to build and explore in a pixelated world?"
+                ],
+                "correctIndex": 0,
+                "hint": "A game about building with blocks."
+              },
+              {
+                "answer": "Non-Playable Character",
+                "options": [
+                  "What does 'NPC' stand for in gaming?",
+                  "Which term describes computer-controlled characters in games?",
+                  "What abbreviation stands for characters not controlled by the player?",
+                  "Which term is used for background characters in video games?"
+                ],
+                "correctIndex": 0,
+                "hint": "It stands for Non-Playable Character."
+              },{
+                "answer": "Bill Gates and Paul Allen",
+                "options": [
+                  "Who founded Microsoft?",
+                  "Who founded Apple?",
+                  "Who founded Google?",
+                  "Who founded Facebook?"
+                ],
+                "correctIndex": 0,
+                "hint": "Two pioneers in personal computing."
+              },
+              {
+                "answer": "Universal Serial Bus",
+                "options": [
+                  "What does USB stand for?",
+                  "What does DSL stand for?",
+                  "What does HDMI stand for?",
+                  "What does VGA stand for?"
+                ],
+                "correctIndex": 0,
+                "hint": "It's the standard interface for connecting devices."
+              },
+              {
+                "answer": "Sight, hearing, taste, smell, and touch",
+                "options": [
+                  "What are the 5 senses?",
+                  "Which human senses are used to perceive the environment?",
+                  "What is the complete set of human senses?",
+                  "How many primary senses do humans have?"
+                ],
+                "correctIndex": 0,
+                "hint": "They include sight, hearing, taste, smell, and touch."
+              },
+              {
+                "answer": "The Great Wall of China",
+                "options": [
+                  "What is the famous wall in China?",
+                  "What is China's longest river?",
+                  "Which structure is known for its ancient defensive purpose in China?",
+                  "Which landmark is visible from space?"
+                ],
+                "correctIndex": 0,
+                "hint": "Built to protect China from invasions."
+              },
+              {
+                "answer": "The explosion of a star",
+                "options": [
+                  "What is a supernova?",
+                  "What is a nova?",
+                  "What is a stellar collapse?",
+                  "What is a gamma-ray burst?"
+                ],
+                "correctIndex": 0,
+                "hint": "It happens when a star explodes."
+              },
+              {
+                "answer": "United States Dollar (USD)",
+                "options": [
+                  "What is the currency of the United States?",
+                  "What is the currency of Canada?",
+                  "What is the currency of the United Kingdom?",
+                  "What is the currency of Australia?"
+                ],
+                "correctIndex": 0,
+                "hint": "It's abbreviated as USD."
+              },
+              {
+                "answer": "Vertebrae",
+                "options": [
+                  "What are the bones in your spine called?",
+                  "What are the bones in your arms called?",
+                  "What are the bones in your legs called?",
+                  "What are the bones in your skull called?"
+                ],
+                "correctIndex": 0,
+                "hint": "They form the backbone."
+              },
+              {
+                "answer": "Mercury",
+                "options": [
+                  "Which planet is closest to our sun?",
+                  "Which planet is known as the Red Planet?",
+                  "Which planet is the largest in our solar system?",
+                  "Which planet is famous for its rings?"
+                ],
+                "correctIndex": 0,
+                "hint": "It's the innermost planet."
+              },
+              {
+                "answer": "Venus",
+                "options": [
+                  "Which is the hottest planet in our solar system?",
+                  "Which is the smallest planet in our solar system?",
+                  "Which planet has the most moons?",
+                  "Which planet is known for its blue color?"
+                ],
+                "correctIndex": 0,
+                "hint": "Despite not being closest, it has extreme surface temperatures."
+              },
+              {
+                "answer": "The Richter scale",
+                "options": [
+                  "What scale is an earthquake measured on?",
+                  "What scale measures temperature?",
+                  "What scale is used to rate tornado intensity?",
+                  "What scale measures sound volume?"
+                ],
+                "correctIndex": 0,
+                "hint": "It's a logarithmic scale for earthquake magnitudes."
+              },{
+                "answer": "Justin.tv",
+                "options": [
+                  "Which company originally created Twitch?",
+                  "Which company is known for developing YouTube?",
+                  "Which company founded Instagram?",
+                  "Which company developed Twitter?"
+                ],
+                "correctIndex": 0,
+                "hint": "It was the precursor to Twitch."
+              },
+              {
+                "answer": "Twitch Turbo",
+                "options": [
+                  "What is the name of Twitch's premium subscription service?",
+                  "What feature allows for ad-free viewing on Twitch?",
+                  "Which service offers exclusive emotes on Twitch?",
+                  "What is the premium channel for Twitch streamers?"
+                ],
+                "correctIndex": 0,
+                "hint": "It's a premium service with ad-free viewing and additional perks."
+              },
+              {
+                "answer": "Squad Stream",
+                "options": [
+                  "What feature allows streamers to broadcast content together on Twitch?",
+                  "Which tool integrates multiple streamers into one broadcast?",
+                  "What is Twitch's collaborative streaming mode called?",
+                  "Which feature is used for hosting multi-streamer events?"
+                ],
+                "correctIndex": 0,
+                "hint": "It lets streamers stream together."
+              },
+              {
+                "answer": "Hosting the longest subathon",
+                "options": [
+                  "What is Ludwig's most famous Twitch achievement?",
+                  "Which achievement made Ludwig a Twitch sensation?",
+                  "What record did Ludwig set on Twitch?",
+                  "Which milestone involves a marathon subathon session?"
+                ],
+                "correctIndex": 0,
+                "hint": "It refers to Ludwig's record-breaking subathon."
+              },
+              {
+                "answer": "Just Chatting category",
+                "options": [
+                  "Which category is Twitch's most-watched non-gaming category?",
+                  "Which category is used for casual conversation on Twitch?",
+                  "Which section focuses on streamers interacting with their audience?",
+                  "What category is popular for non-gaming content?"
+                ],
+                "correctIndex": 0,
+                "hint": "It's the section for casual talks."
+              },
+              {
+                "answer": "Twitch Prime",
+                "options": [
+                  "What Twitch feature offers a free sub with Amazon Prime?",
+                  "Which feature provides exclusive emotes on Twitch?",
+                  "What is the name of Twitch's bonus subscription service?",
+                  "Which service links Amazon Prime with Twitch?"
+                ],
+                "correctIndex": 0,
+                "hint": "It links with your Amazon Prime membership."
+              },
+              {
+                "answer": "TwitchCon",
+                "options": [
+                  "What is the name of the official Twitch convention?",
+                  "Which event gathers streamers and fans from around the world?",
+                  "What is the annual Twitch festival called?",
+                  "Which convention is known for its Twitch panels and meetups?"
+                ],
+                "correctIndex": 0,
+                "hint": "It's where streamers and fans meet annually."
+              }                 
+        ]
+    },
+    "science": {
+        "category": "Science",
+        "questions": [
+          {
+            "answer": "Albert Einstein",
+            "options": [
+              "Who developed the theory of relativity?",
+              "Who formulated the law of gravity?",
+              "Who discovered penicillin?",
+              "Who invented the telephone?"
+            ],
+            "correctIndex": 0,
+            "hint": "A physicist known for E=mc²."
+          },
+          {
+            "answer": "Mount Everest",
+            "options": [
+              "What is the tallest mountain in the world?",
+              "What is the most dangerous mountain to climb?",
+              "Which mountain is the highest in the United States?",
+              "Which mountain is known for its glaciers in the Andes?"
+            ],
+            "correctIndex": 0,
+            "hint": "Located in the Himalayas."
+          },
+          {
+            "answer": "Jupiter",
+            "options": [
+              "What is the largest planet in our solar system?",
+              "Which planet is known for its extensive ring system?",
+              "Which planet is closest to the Sun?",
+              "Which planet is known as the Red Planet?"
+            ],
+            "correctIndex": 0,
+            "hint": "A massive gas giant."
+          },
+          {
+            "answer": "Crust, mantle and core",
+            "options": [
+              "What are the three layers of the Earth?",
+              "What are the layers of the Earth's atmosphere?",
+              "What are the continents of the Earth?",
+              "What are the layers of the ocean?"
+            ],
+            "correctIndex": 0,
+            "hint": "These make up Earth's interior."
+          },
+          {
+            "answer": "An omnivore",
+            "options": [
+              "What do you call an animal that eats a variety of other organisms, including plants, animals and fungi?",
+              "What do you call an animal that eats only plants?",
+              "What do you call an animal that eats only meat?",
+              "What do you call an animal that feeds on carrion?"
+            ],
+            "correctIndex": 0,
+            "hint": "It eats both plants and animals."
+          },
+          {
+            "answer": "118",
+            "options": [
+              "How many elements are on the periodic table?",
+              "How many elements are in the periodic table?",
+              "What is the total number of elements discovered?",
+              "How many chemical elements are known?"
+            ],
+            "correctIndex": 0,
+            "hint": "It's the number recognized by IUPAC."
+          },
+          {
+            "answer": "Meteorology",
+            "options": [
+              "What do you call the study of weather, climate, and the atmosphere?",
+              "What is the study of oceans called?",
+              "What field studies earthquakes and tectonics?",
+              "What is the science of stars known as?"
+            ],
+            "correctIndex": 0,
+            "hint": "It involves forecasting and climate analysis."
+          },
+          {
+            "answer": "Mycology",
+            "options": [
+              "What is the study of fungi called?",
+              "What is the study of plants called?",
+              "What is the study of insects called?",
+              "What is the study of viruses called?"
+            ],
+            "correctIndex": 0,
+            "hint": "It focuses on mushrooms, molds, and yeasts."
+          },
+          {
+            "answer": "Seven: red, orange, yellow, green, blue, indigo and violet",
+            "options": [
+              "How many colors are in the rainbow?",
+              "What is the number of colors in a rainbow?",
+              "How many distinct colors are seen in a rainbow?",
+              "According to the common mnemonic, how many colors does a rainbow have?"
+            ],
+            "correctIndex": 0,
+            "hint": "Remember ROYGBIV."
+          },
+          {
+            "answer": "Hydrogen",
+            "options": [
+              "Which is the most abundant element in the universe?",
+              "What is the lightest element on the periodic table?",
+              "Which element has atomic number 1?",
+              "Which element is most common in stars?"
+            ],
+            "correctIndex": 0,
+            "hint": "It's the first element in the periodic table."
+          },
+          {
+            "answer": "Dormant",
+            "options": [
+              "What do you call a volcano that’s not currently erupting?",
+              "What do you call an active volcano?",
+              "What do you call an extinct volcano?",
+              "What do you call a volcano in eruption?"
+            ],
+            "correctIndex": 0,
+            "hint": "It’s not erupting right now, but it may erupt in the future."
+          },
+          {
+            "answer": "Uranium",
+            "options": [
+              "What element is the most commonly used to create nuclear energy?",
+              "What element is primarily used in batteries?",
+              "What element is known for its use in jewelry?",
+              "What element is a key ingredient in fertilizers?"
+            ],
+            "correctIndex": 0,
+            "hint": "It’s a radioactive element used for nuclear power."
+          },
+          {
+            "answer": "Count its growth rings",
+            "options": [
+              "How do you determine the age of a tree?",
+              "How do you measure the height of a tree?",
+              "How do you estimate the weight of a tree?",
+              "How do you calculate the circumference of a tree?"
+            ],
+            "correctIndex": 0,
+            "hint": "Look at the cross-section of the trunk to see the rings."
+          },
+          {
+            "answer": "Magma",
+            "options": [
+              "What do you call molten rock before it has erupted?",
+              "What do you call rock after it erupts from a volcano?",
+              "What is the term for solidified lava?",
+              "What is a type of sedimentary rock?"
+            ],
+            "correctIndex": 0,
+            "hint": "When it’s underground, it’s called magma; after eruption, it’s called lava."
+          },
+          {
+            "answer": "The United States",
+            "options": [
+              "What country has the most tornadoes?",
+              "Which country is known for its high earthquake frequency?",
+              "Which country has the most hurricanes?",
+              "Which country experiences the most volcanic eruptions?"
+            ],
+            "correctIndex": 0,
+            "hint": "It experiences thousands of tornadoes annually."
+          },
+          {
+            "answer": "Charles Darwin",
+            "options": [
+              "Who is credited with coming up with the theory of evolution?",
+              "Who proposed the laws of gravity?",
+              "Who discovered penicillin?",
+              "Who was the first man to walk on the moon?"
+            ],
+            "correctIndex": 0,
+            "hint": "He developed the theory of evolution by natural selection."
+          },
+          {
+            "answer": "Zero",
+            "options": [
+              "How many bones do sharks have?",
+              "How many bones do humans have?",
+              "How many bones do elephants have?",
+              "How many bones do birds have?"
+            ],
+            "correctIndex": 0,
+            "hint": "Sharks have a cartilaginous skeleton, so they have no bones."
+          },
+          {
+            "answer": "Antarctica",
+            "options": [
+              "What is the largest desert in the world?",
+              "Which continent is the coldest?",
+              "Which continent is the smallest?",
+              "Which continent is most populated?"
+            ],
+            "correctIndex": 0,
+            "hint": "Deserts are defined by low precipitation; Antarctica qualifies as a desert."
+          },
+          {
+            "answer": "8 minutes and 20 seconds",
+            "options": [
+              "Roughly how long does it take for the sun’s light to reach Earth?",
+              "How long does it take for the Earth to orbit the sun?",
+              "How long does it take for sound to travel from the sun to Earth?",
+              "How long is a day on Earth?"
+            ],
+            "correctIndex": 0,
+            "hint": "Sunlight takes about 8 minutes to reach Earth."
+          },
+          {
+            "answer": "Hemoglobin",
+            "options": [
+              "What is the name of the red pigment found in vertebrates that functions in oxygen transport?",
+              "What is the main protein in muscle tissue?",
+              "What hormone regulates blood sugar?",
+              "What enzyme is responsible for digestion?"
+            ],
+            "correctIndex": 0,
+            "hint": "It carries oxygen in the blood."
+          },
+          {
+            "answer": "At least six months",
+            "options": [
+              "How long is the memory of a goldfish?",
+              "What is the typical lifespan of a goldfish?",
+              "How quickly do goldfish react to stimuli?",
+              "How old can goldfish get?"
+            ],
+            "correctIndex": 0,
+            "hint": "The correct memory duration is much longer than commonly believed."
+          },
+          {
+            "answer": "Fission",
+            "options": [
+              "What is the splitting of atomic nuclei called?",
+              "What is the merging of atomic nuclei called?",
+              "What is the process of nuclear fusion?",
+              "What is radioactive decay?"
+            ],
+            "correctIndex": 0,
+            "hint": "This process releases energy in nuclear reactors and bombs."
+          },          
+          {
+            "answer": "Carbon",
+            "options": [
+              "What element is a diamond composed of?",
+              "Which element is essential for organic molecules?",
+              "Which element is abundant in the human body?",
+              "Which element gives pencils their color?"
+            ],
+            "correctIndex": 0,
+            "hint": "Diamonds are made entirely of pure carbon."
+          },
+            {
+              "answer": "Mercury and Venus",
+              "options": [
+                "Which two planets have no moons?",
+                "Which two planets have rings?",
+                "Which two planets are gas giants?",
+                "Which two planets have the most moons?"
+              ],
+              "correctIndex": 0,
+              "hint": "They are the two innermost planets in our solar system."
+            },
+            {
+              "answer": "Since its discovery in 1846, Neptune has made one full orbit, which it finished in 2011.",
+              "options": [
+                "How many times has Neptune orbited the Sun since its discovery?", 
+                "What is Neptune's orbital period in Earth years?", 
+                "When did Neptune complete its second orbit since discovery?",
+                "How many planets have longer orbits than Neptune?"               ],
+              "correctIndex": 0,
+              "hint": "Neptune's orbit takes roughly 165 years."
+            },
+            {
+              "answer": "Jupiter and Mars",
+              "options": [
+                "Between which two planets is the asteroid belt located?",
+                "Which two planets are separated by the Kuiper Belt?",
+                "Which two planets have the largest volcanoes?", 
+                "Which two planets are closest to Earth?"
+              ],
+              "correctIndex": 0,
+              "hint": "The asteroid belt lies between the orbits of Mars and Jupiter."
+            },
+            {
+              "answer": "238,855 miles",
+              "options": [
+                "What is the average distance between Earth and the Moon?", 
+                "What is the distance from Earth to the Sun?", 
+                "What is the diameter of the Sun?", 
+                "How far is Mars from Earth at closest approach?"              ],
+              "correctIndex": 0,
+              "hint": "This is approximately the average distance between Earth and the Moon."
+            }
+          ]
+    },
+    "geography": {
+        "category": "Geography",
+        "questions": [
+            {"question": "What is the longest river in the world?", "answer": "Nile"},
+            {"question": "Which continent is the Sahara Desert located in?", "answer": "Africa"},
+            {"question": "Mount Everest is located in which mountain range?", "answer": "Himalayas"}
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reverse Trivia</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1"></script>
+</head>
+<body>
+    <div class="navbar">
+        <h1>Reverse Trivia 🎯</h1>
+        <div class="navbar_buttons">
+        <button onclick="loadCategory('general')">All</button>
+        <button onclick="loadCategory('science')">Science</button>
+        <button onclick="loadCategory('geography')">Geography</button>
+        <button onclick="loadCategory('twitch')">Twitch</button>
+        <button onclick="loadCategory('gaming')">Gaming</button>
+        </div>
+    </div>
+
+    <h2 id="category-name"></h2>
+    <div class="game-container">
+        <h3 id="score">Score: 0</h3>    
+        <p>What is the question that matches this answer?</p>
+        <div class="answer-box" id="answer">Loading...</div>
+        <br><br>
+        <div class="options" id="options"></div>
+        <p id="message"></p>
+    </div>
+         <!-- How to Play Section -->
+
+  <div id="instructions" class="instructions">
+    <h1>How To Play</h1>
+    <p>🔹 You will see an "Answer" on the screen.</p>
+    <p>🔹 Your task is to select the correct question that matches the answer.</p>
+    <p>🔹 Click on one of the four options provided.</p>
+    <p>🔹 If you're correct, you earn a point! ✅</p>
+    <p>🔹 If you're wrong, you'll get a hint! ❌</p>
+    <p>🔹 Try to score as high as possible!</p>
+  </div>
+<script src="script.js" defer></script>
+</body>
+</html>
